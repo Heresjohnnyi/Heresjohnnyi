@@ -6,12 +6,12 @@ I’m a data engineer and analytics practitioner with a strong background in sca
 
 - **Programming Languages**:  
   - Golang (high-performance services, backend systems)  
-  - Scala (Spark-based distributed computation)  
+  - Java 
   - Python (data science, scripting, automation)  
   - SQL (analytical queries, performance tuning)
 
-- **Big Data & Processing**:  
-  - Apache Spark (PySpark and Scala APIs)  
+- **Big Data & Processing**: 
+  - Apache Spark (PySpark )  
   - Databricks (ETL pipelines, notebooks, job orchestration)  
   - Terabyte-scale data analysis and optimization
 
