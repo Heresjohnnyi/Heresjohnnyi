@@ -1,17 +1,150 @@
-<h1 align="center">Hi 👋, I'm Muralikarthik</h1>
-<h3 align="center">An aspiring Data Engineer & Analytics Practitioner focusing on scalable data processing, distributed systems, and production-grade analytics solutions.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>S. Muralikarthik | Data Engineer & Analytics</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: #f5f5f5;
+      color: #333;
+    }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heresjohnnyi&label=Profile%20views&color=0e75b6&style=flat" alt="heresjohnnyi" /> </p>
+    /* Header with Background */
+    .header {
+      background: url('https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+      height: 50vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      text-align: center;
+      position: relative;
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/muralikarthik7090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/muralikarthik7090" height="30" width="40" /></a>
-<a href="https://medium.com/@muralikarthik7090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muralikarthik7090" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mura" height="30" width="40" /></a>
-</p>
+    .header::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+      z-index: 1;
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+    .header h1, .header h3 {
+      position: relative;
+      z-index: 2;
+      margin: 0.5rem;
+    }
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/S MURALIKARTHIK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="S MURALIKARTHIK" /></a></p><br><br>
+    /* Container */
+    .container {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    /* Social Links */
+    .social-links a {
+      margin: 0 0.5rem;
+      display: inline-block;
+    }
+
+    .social-links img {
+      width: 40px;
+      height: 40px;
+    }
+
+    /* Tools / Languages */
+    .tools img {
+      width: 50px;
+      height: 50px;
+      margin: 0.5rem;
+    }
+
+    /* Sections */
+    section {
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    /* Buy Me a Coffee */
+    .coffee-btn img {
+      width: 220px;
+      height: 50px;
+    }
+
+    @media (max-width: 768px) {
+      .tools img {
+        width: 40px;
+        height: 40px;
+        margin: 0.3rem;
+      }
+      .social-links img {
+        width: 35px;
+        height: 35px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <div class="header">
+    <h1>Hi 👋, I'm S. Muralikarthik</h1>
+    <h3>Aspiring Data Engineer & Analytics Practitioner | Scalable Data Processing | AI & ML | Distributed Systems</h3>
+  </div>
+
+  <div class="container">
+
+    <!-- Social Links -->
+    <section>
+      <h2>🌐 Connect with Me</h2>
+      <div class="social-links">
+        <a href="https://linkedin.com/in/muralikarthik7090" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"></a>
+        <a href="https://medium.com/@muralikarthik7090" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium"></a>
+        <a href="https://codeforces.com/profile/mura" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" alt="Codeforces"></a>
+      </div>
+    </section>
+
+    <!-- About Me -->
+    <section>
+      <h2>💡 About Me</h2>
+      <p>I’m a passionate <strong>Data Engineer & Analytics enthusiast</strong> who loves building <strong>scalable data pipelines</strong>, developing <strong>AI/ML models</strong>, and creating <strong>interactive analytics solutions</strong>. Every coffee you buy helps me dedicate more time to <strong>exploring new technologies</strong>, <strong>building projects</strong>, and <strong>sharing knowledge</strong> with the community.</p>
+    </section>
+
+    <!-- Tools & Languages -->
+    <section>
+      <h2>🛠 Languages & Tools</h2>
+      <div class="tools">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas">
+      </div>
+    </section>
+
+    <!-- Buy Me a Coffee -->
+    <section>
+      <h2>☕ Support Me</h2>
+      <div class="coffee-btn">
+        <a href="https://www.buymeacoffee.com/smuralikarthik" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee">
+        </a>
+      </div>
+    </section>
+
+  </div>
+
+</body>
+</html>
