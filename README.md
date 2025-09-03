@@ -1,90 +1,17 @@
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Muralikarthik</h1>
+<h3 align="center">An aspiring Data Engineer & Analytics Practitioner focusing on scalable data processing, distributed systems, and production-grade analytics solutions.</h3>
 
-I’m a data engineer and analytics practitioner with a strong background in scalable data processing, distributed systems, and performance optimization.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heresjohnnyi&label=Profile%20views&color=0e75b6&style=flat" alt="heresjohnnyi" /> </p>
 
-### 🔧 Technical Skill Set
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/muralikarthik7090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/muralikarthik7090" height="30" width="40" /></a>
+<a href="https://medium.com/@muralikarthik7090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muralikarthik7090" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mura" height="30" width="40" /></a>
+</p>
 
-- **Programming Languages**:  
-  - Golang (high-performance services, backend systems)  
-  - Java 
-  - Python (data science, scripting, automation)  
-  - SQL (analytical queries, performance tuning)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- **Big Data & Processing**: 
-  - Apache Spark (PySpark )  
-  - Databricks (ETL pipelines, notebooks, job orchestration)  
-  - Terabyte-scale data analysis and optimization
-
-- **Data Management**:  
-  - Snowflake (warehouse modeling, optimization)  
-  - NoSQL systems (Cassandra, MongoDB)  
-  - Data modeling and schema design (normalized, star/snowflake schemas)
-
-- **Analytics & BI**:  
-  - Predictive modeling with Numpy/Pandas  
-  - Business dashboards using Power BI  
-  - KPI tracking and operational analytics
-
-- **Dev & Tools**:  
-  - Visual Studio Code (daily driver)  
-  - Git, Docker, REST APIs  
-  - CI/CD for data workflows
-
-### 💼 Professional Interests
-
-- Building fault-tolerant data pipelines  
-- Optimizing large-scale analytics systems  
-- Designing modular, production-grade data solutions
-
----
-
-### 🔗 Connect with Me
-
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourprofile](## 👨‍💻 About Me
-
-I’m a data engineer and analytics practitioner with a strong background in scalable data processing, distributed systems, and performance optimization.
-
-### 🔧 Technical Skill Set
-
-- **Programming Languages**:  
-  - Golang (high-performance services, backend systems)  
-  - Scala (Spark-based distributed computation)  
-  - Python (data science, scripting, automation)  
-  - SQL (analytical queries, performance tuning)
-
-- **Big Data & Processing**:  
-  - Apache Spark (PySpark and Scala APIs)  
-  - Databricks (ETL pipelines, notebooks, job orchestration)  
-  - Terabyte-scale data analysis and optimization
-
-- **Data Management**:  
-  - Snowflake (warehouse modeling, optimization)  
-  - NoSQL systems (Cassandra, MongoDB)  
-  - Data modeling and schema design (normalized, star/snowflake schemas)
-
-- **Analytics & BI**:  
-  - Predictive modeling with Numpy/Pandas  
-  - Business dashboards using Power BI  
-  - KPI tracking and operational analytics
-
-- **Dev & Tools**:  
-  - Visual Studio Code (daily driver)  
-  - Git, Docker, REST APIs  
-  - CI/CD for data workflows
-
-### 💼 Professional Interests
-
-- Building fault-tolerant data pipelines  
-- Optimizing large-scale analytics systems  
-- Designing modular, production-grade data solutions
-
----
-
-### 🔗 Connect with Me
-
-
-- LinkedIn:(www.linkedin.com/in/murali-karthik-s-13600a241)  
-- Email: (muralikarthik7090@gmail.com)  
-)  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/S MURALIKARTHIK"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="S MURALIKARTHIK" /></a></p><br><br>
