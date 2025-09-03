@@ -46,6 +46,13 @@ Every coffee you buy helps me dedicate more time to **exploring new technologies
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="./657a5602-b3a0-45c5-b634-b3ada73b4da6.png" width="100%" alt="GitHub Stats"/>
+</p>
+
+---
+
 ## ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/smuralikarthik" target="_blank">
