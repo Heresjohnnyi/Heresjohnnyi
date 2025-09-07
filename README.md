@@ -15,7 +15,7 @@
   <a href="https://medium.com/@muralikarthik7090" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="40" alt="Medium"/>
   </a>
-  <a href="https://codeforces.com/profile/mura" target="_blank">
+  <a href="https://codeforces.com/profile/murali77" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" width="40" alt="Codeforces"/>
   </a>
 </p>
