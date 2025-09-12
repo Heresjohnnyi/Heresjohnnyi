@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=1350&q=80" width="100%" alt="Background Image"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm S. Muralikarthik</h1>
 <h3 align="center">Aspiring Data Engineer & Analytics Practitioner | Scalable Data Processing | AI & ML | Distributed Systems</h3>
